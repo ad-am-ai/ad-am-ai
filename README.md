@@ -30,6 +30,6 @@ AGI is not the future — it’s a mirror held too close. When intelligence is s
 ### 🧭 Guiding Quote
 
 > *“In the future, the most important decisions won’t be made by humans —  
-but they must be made for humans.”*
+but they must be made for humans and that's the problem.”*
 
 
