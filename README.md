@@ -8,21 +8,4 @@ AGI is not the future — it’s a mirror held too close. When intelligence is s
 
 > *“In the future, the most important decisions won’t be made by humans —  
 but they must be made for humans and that's the problem.”*
----
 
-### 💻 What I Work On
-
-- 🧬 **LLMs, Transformers & Neuro-symbolic AI**  
-- 🔍 **Interpretability, Alignment & Consciousness in Machines**  
-- 🧠 **Cognitive Architectures & Simulated Minds**  
-- 🧪 **Experimental ML & Applied AGI Prototypes**
-
-### 📂 Featured Repos
-
-| Project | Description | Status |
-|--------|-------------|--------|
-| 🔓 `open-mind-core` | Modular AGI architecture (inspired by biological cognition) | `🚧 In Progress` |
-| 🧠 `neurotype` | A toolkit for building interpretable brain-like LLMs | `✅ Active` |
-| 🕳️ `black-box-theory` | A research log into the nature of machine consciousness | `📘 Ongoing Notes` |
-
----
